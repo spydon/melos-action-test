@@ -1,0 +1,23 @@
+name: MelosActionTest
+repository: https://github.com/spydon/melos-action-test
+
+packages:
+  - packages/**
+  - examples/
+  - examples/games/**
+  - doc/**
+
+command:
+  version:
+    # Only allow versioning to happen on main branch.
+    branch: main
+    # Generates a link to a prefilled GitHub release creation page.
+    releaseUrl: true
+  bootstrap:
+    environment:
+      sdk: ">=3.0.0 <4.0.0"
+
+scripts:
+  format:
+    run: melos exec dart format . --set-exit-if-changed
+    description: Run `dart format` checks for all packages.

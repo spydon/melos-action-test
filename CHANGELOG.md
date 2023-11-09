@@ -15,6 +15,27 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`melos_action_test` - `v0.0.7`](#melos_action_test---v007)
+
+---
+
+#### `melos_action_test` - `v0.0.7`
+
+ - **FEAT**: Try tags with pre-defined name. ([fc944e71](https://github.com/spydon/melos-action-test/commit/fc944e71c52785d40a07ef1a78b7346ff5fa962d))
+
+
+## 2023-11-09
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`melos_action_test` - `v0.0.6`](#melos_action_test---v006)
 
 ---

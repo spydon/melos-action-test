@@ -17,6 +17,6 @@ jobs:
       - uses: bluefireteam/melos-action@main
         with:
           version: true
-          publish: true
+          publish-dry-run: true
           create-pr: true
       - run: melos format

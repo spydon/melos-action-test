@@ -1,3 +1,7 @@
+## 0.0.4
+
+ - **FEAT**: Try emtpy commit. ([37bf8b2e](https://github.com/spydon/melos-action-test/commit/37bf8b2e6fd11c74ffec37d165ca1bf404c247cc))
+
 ## 0.0.3
 
  - **FEAT**: Now the calculator is even more powerful +4. ([e1ef9a9e](https://github.com/spydon/melos-action-test/commit/e1ef9a9e4d0e6fb276ba91b1716a1475d98ea687))

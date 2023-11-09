@@ -15,6 +15,27 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`melos_action_test` - `v0.0.4`](#melos_action_test---v004)
+
+---
+
+#### `melos_action_test` - `v0.0.4`
+
+ - **FEAT**: Try emtpy commit. ([37bf8b2e](https://github.com/spydon/melos-action-test/commit/37bf8b2e6fd11c74ffec37d165ca1bf404c247cc))
+
+
+## 2023-11-09
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`melos_action_test` - `v0.0.3`](#melos_action_test---v003)
 
 ---

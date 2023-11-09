@@ -1,3 +1,7 @@
+## 0.0.6
+
+ - **FEAT**: 9. ([0d6f9367](https://github.com/spydon/melos-action-test/commit/0d6f93670955e88f36b70b72030b8fbfcb79b423))
+
 ## 0.0.5
 
  - **FEAT**: 7 is better than 6, clearly. ([171ca493](https://github.com/spydon/melos-action-test/commit/171ca4938f347d733594b96a93ffd3ae1ec46eb1))

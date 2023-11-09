@@ -1,3 +1,7 @@
+## 0.0.3
+
+ - **FEAT**: Now the calculator is even more powerful +4. ([e1ef9a9e](https://github.com/spydon/melos-action-test/commit/e1ef9a9e4d0e6fb276ba91b1716a1475d98ea687))
+
 ## 0.0.2
 
  - **FEAT**: No idea why this is needed. ([1b24ee88](https://github.com/spydon/melos-action-test/commit/1b24ee8829a47ce3265b33fa4dcacf4d808f0198))

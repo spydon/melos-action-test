@@ -1,3 +1,7 @@
+## 0.0.8
+
+ - **FEAT**: Hopefully the final test. ([ef92f47e](https://github.com/spydon/melos-action-test/commit/ef92f47e928c0fa1ede384daefa2f582a837c49c))
+
 ## 0.0.7
 
  - **FEAT**: Try tags with pre-defined name. ([fc944e71](https://github.com/spydon/melos-action-test/commit/fc944e71c52785d40a07ef1a78b7346ff5fa962d))

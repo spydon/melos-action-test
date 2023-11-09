@@ -15,6 +15,27 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`melos_action_test` - `v0.0.5`](#melos_action_test---v005)
+
+---
+
+#### `melos_action_test` - `v0.0.5`
+
+ - **FEAT**: 7 is better than 6, clearly. ([171ca493](https://github.com/spydon/melos-action-test/commit/171ca4938f347d733594b96a93ffd3ae1ec46eb1))
+
+
+## 2023-11-09
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`melos_action_test` - `v0.0.4`](#melos_action_test---v004)
 
 ---

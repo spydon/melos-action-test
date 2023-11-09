@@ -1,6 +1,6 @@
 name: melos_action_test
 description: A new Flutter package project.
-version: 0.0.4
+version: 0.0.5
 repository: http://github.com/spydon/melos-action-test
 
 environment:

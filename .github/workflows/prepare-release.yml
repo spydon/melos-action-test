@@ -4,7 +4,8 @@ on:
     branches: [main]
 
 jobs:
-  create-release:
+  prepare-release:
+    name: Prepare release
     permissions:
       contents: write
       pull-requests: write

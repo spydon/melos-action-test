@@ -5,6 +5,7 @@ on:
 
 jobs:
  publish-packages:
+   name: Publish packages
    permissions:
      contents: write
    runs-on: [ ubuntu-latest ]

@@ -1,3 +1,7 @@
+## 0.0.5
+
+ - **FEAT**: 7 is better than 6, clearly. ([171ca493](https://github.com/spydon/melos-action-test/commit/171ca4938f347d733594b96a93ffd3ae1ec46eb1))
+
 ## 0.0.4
 
  - **FEAT**: Try empty commit. ([12a307bf](https://github.com/spydon/melos-action-test/commit/12a307bfab04332ef116ed1930a0bb9cfdee7be1))

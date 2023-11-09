@@ -1,12 +1,10 @@
-name: cicd
-
-
+name: Prepare release
 on:
   push:
     branches: [main]
 
 jobs:
-  publish:
+  create-release:
     permissions:
       contents: write
       pull-requests: write
@@ -19,4 +17,3 @@ jobs:
           version: true
           publish-dry-run: true
           create-pr: true
-      - run: melos format

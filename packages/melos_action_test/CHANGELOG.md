@@ -1,3 +1,7 @@
+## 0.0.8+1
+
+ - **DOCS**: Add readme. ([4f95447c](https://github.com/spydon/melos-action-test/commit/4f95447c825a1f880d9fc3c4f0cbe3c8cf8f4f0b))
+
 ## 0.0.8
 
  - **FEAT**: Hopefully the final test. ([ef92f47e](https://github.com/spydon/melos-action-test/commit/ef92f47e928c0fa1ede384daefa2f582a837c49c))

@@ -1,3 +1,7 @@
+## 0.0.10
+
+ - **FEAT**: Try new action. ([e4377728](https://github.com/spydon/melos-action-test/commit/e437772872f88e4df82f7e9f6993895eecbecaa9))
+
 ## 0.0.9
 
  - **FEAT**: Test git tagging. ([34663149](https://github.com/spydon/melos-action-test/commit/34663149704fa5e3011087974c43f9cf9dadda76))

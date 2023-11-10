@@ -5,7 +5,7 @@ on:
     # This must align with the tag-pattern configured on pub.dev, if you are
     # not in a monorepo you usually just need 'v[0-9]+.[0-9]+.[0-9]+*'.
     # If your repository contains multiple packages consider a pattern like:
-      - '[a-z0-9_]+-v[0-9]+.[0-9]+.[0-9]+.*'
+      - '[a-z0-9_]+-v[0-9]+.[0-9]+.[0-9]+*'
 
 jobs:
  publish-packages:

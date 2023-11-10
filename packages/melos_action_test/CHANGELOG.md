@@ -1,3 +1,7 @@
+## 0.0.8+1
+
+ - **DOCS**: Add warning to readme. ([bc7fb030](https://github.com/spydon/melos-action-test/commit/bc7fb030c0db69b62869b7d25b6255dbf3dd65b1))
+
 ## 0.0.8
 
  - **FEAT**: Hopefully the final test. ([ef92f47e](https://github.com/spydon/melos-action-test/commit/ef92f47e928c0fa1ede384daefa2f582a837c49c))

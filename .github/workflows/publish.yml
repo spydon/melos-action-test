@@ -1,16 +1,18 @@
 name: Publish packages
 on:
   push:
-    branches: [main]
+    tags:
+    # This must align with the tag-pattern configured on pub.dev, if you are
+    # not in a monorepo you usually just need 'v[0-9]+.[0-9]+.[0-9]+*'.
+    # If your repository contains multiple packages consider a pattern like:
+    - '[a-z0-9_]+-v[0-9]+.[0-9]+.[0-9]+*'
 
 jobs:
  publish-packages:
    name: Publish packages
    permissions:
-     contents: write
      id-token: write
    runs-on: [ ubuntu-latest ]
-   if: contains(github.event.head_commit.message, 'chore(release)')
    steps:
      - uses: actions/checkout@v3
      - uses: subosito/flutter-action@v2

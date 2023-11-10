@@ -6,7 +6,7 @@ on:
     # not in a monorepo you usually just need 'v[0-9]+.[0-9]+.[0-9]+*'.
     # If your repository contains multiple packages consider a pattern like:
       - '[a-z0-9_]+-v[0-9]+.[0-9]+.[0-9]+'
-      - '[a-z0-9_]+-v[0-9]+.[0-9]+.[0-9]+-[A-Za-z0-9-_]*'
+     #- '[a-z0-9_]+-v[0-9]+.[0-9]+.[0-9]+-[A-Za-z0-9-_]*'
 
 jobs:
  publish-packages:

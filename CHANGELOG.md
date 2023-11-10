@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2023-11-10
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
+ - [`melos_action_test` - `v0.0.8+1`](#melos_action_test---v0081)
+
+---
+
+#### `melos_action_test` - `v0.0.8+1`
+
+ - **DOCS**: Add warning to readme. ([bc7fb030](https://github.com/spydon/melos-action-test/commit/bc7fb030c0db69b62869b7d25b6255dbf3dd65b1))
+
+
 ## 2023-11-09
 
 ### Changes

@@ -1,3 +1,7 @@
+## 0.0.9
+
+ - **FEAT**: Test git tagging. ([34663149](https://github.com/spydon/melos-action-test/commit/34663149704fa5e3011087974c43f9cf9dadda76))
+
 ## 0.0.8+1
 
  - **DOCS**: Add warning to readme. ([bc7fb030](https://github.com/spydon/melos-action-test/commit/bc7fb030c0db69b62869b7d25b6255dbf3dd65b1))

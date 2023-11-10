@@ -15,6 +15,27 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`melos_action_test` - `v0.0.9`](#melos_action_test---v009)
+
+---
+
+#### `melos_action_test` - `v0.0.9`
+
+ - **FEAT**: Test git tagging. ([34663149](https://github.com/spydon/melos-action-test/commit/34663149704fa5e3011087974c43f9cf9dadda76))
+
+
+## 2023-11-10
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`melos_action_test` - `v0.0.8+1`](#melos_action_test---v0081)
 
 ---

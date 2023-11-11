@@ -6,8 +6,8 @@ on:
 jobs:
  publish-packages:
    name: Tag packages
-   permissions:
-     contents: write
+   permissions: write-all
+     #contents: write
    runs-on: [ ubuntu-latest ]
    if: contains(github.event.head_commit.message, 'chore(release)')
    steps:

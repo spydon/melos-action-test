@@ -1,3 +1,7 @@
+## 0.0.24+1
+
+ - **FIX**: Next update. ([79a3cef2](https://github.com/spydon/melos-action-test/commit/79a3cef29f6a4a9cfb1bfae8444805f7a671cdc5))
+
 ## 0.0.24
 
  - **FIX**: Test the passed package_name variable. ([bedacd93](https://github.com/spydon/melos-action-test/commit/bedacd933e35c79adb92594c5ebd3d1fa9b40f11))

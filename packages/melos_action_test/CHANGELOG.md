@@ -1,3 +1,7 @@
+## 0.0.25
+
+ - **FEAT**: Very new feature. ([d4202436](https://github.com/spydon/melos-action-test/commit/d4202436f80430bc6d414e43ac1017e6219f199c))
+
 ## 0.0.24+1
 
  - **FIX**: Next update. ([79a3cef2](https://github.com/spydon/melos-action-test/commit/79a3cef29f6a4a9cfb1bfae8444805f7a671cdc5))

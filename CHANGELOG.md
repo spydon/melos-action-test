@@ -15,6 +15,27 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`melos_action_test` - `v0.0.25`](#melos_action_test---v0025)
+
+---
+
+#### `melos_action_test` - `v0.0.25`
+
+ - **FEAT**: Very new feature. ([d4202436](https://github.com/spydon/melos-action-test/commit/d4202436f80430bc6d414e43ac1017e6219f199c))
+
+
+## 2024-10-05
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`melos_action_test` - `v0.0.24+1`](#melos_action_test---v00241)
 
 ---

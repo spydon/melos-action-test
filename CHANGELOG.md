@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2024-10-06
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
+ - [`melos_action_test` - `v0.0.26`](#melos_action_test---v0026)
+
+---
+
+#### `melos_action_test` - `v0.0.26`
+
+ - **FEAT**: New feature. ([ab35c56b](https://github.com/spydon/melos-action-test/commit/ab35c56b5937f42e320b1429fa7f26494c7f177c))
+
+
 ## 2024-10-05
 
 ### Changes

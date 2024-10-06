@@ -8,6 +8,8 @@ jobs:
     name: Create tags for release
     permissions:
       contents: write
+      pull-requests: write
+      repository-projects: write
     runs-on: [ ubuntu-latest ]
     if: contains(github.event.head_commit.message, 'chore(release)')
     steps:

@@ -1,3 +1,7 @@
+## 0.0.29
+
+ - **FEAT**: Working publishing. ([8f465b0a](https://github.com/spydon/melos-action-test/commit/8f465b0a3eafc1508a658c0da1f4f9609652e884))
+
 ## 0.0.28
 
  - **FEAT**: New working feature. ([a196ba32](https://github.com/spydon/melos-action-test/commit/a196ba32e8abc15170520539e35381dbe6b41b29))

@@ -15,6 +15,28 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`melos_action_test` - `v0.0.30`](#melos_action_test---v0030)
+
+---
+
+#### `melos_action_test` - `v0.0.30`
+
+ - **FEAT**: Contents permission needed. ([4661301f](https://github.com/spydon/melos-action-test/commit/4661301f5e84020c7243a4974196293616610399))
+ - **FEAT**: Working publishing. ([8f465b0a](https://github.com/spydon/melos-action-test/commit/8f465b0a3eafc1508a658c0da1f4f9609652e884))
+
+
+## 2024-10-07
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`melos_action_test` - `v0.0.29`](#melos_action_test---v0029)
 
 ---

@@ -2,5 +2,5 @@ library melos_action_test;
 
 /// A Calculator.
 class Calculator {
-  int addOne(int value) => value + 35;
+  int addOne(int value) => value + 36;
 }

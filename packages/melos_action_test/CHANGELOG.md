@@ -1,3 +1,7 @@
+## 0.0.28
+
+ - **FEAT**: New working feature. ([a196ba32](https://github.com/spydon/melos-action-test/commit/a196ba32e8abc15170520539e35381dbe6b41b29))
+
 ## 0.0.27
 
  - **FEAT**: Neeeew feature. ([6ece5499](https://github.com/spydon/melos-action-test/commit/6ece54992cf931256128992d066a61f1a8ec7931))
